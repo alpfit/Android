@@ -11,6 +11,19 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+       /*
+        use version view in java
+        VersionView vView = new VersionView(this);
+        setContentView(vView);
+        setContentView(R.layout.activity_main);
+        TextView hwTextView = (TextView)this.findViewById(R.id.idHW);
+        try {
+            PackageInfo mpackage = getPackageManager().getPackageInfo(getPackageName(),0);
+            hwTextView.setText(mpackage.versionName);
+        } catch (PackageManager.NameNotFoundException e) {
+            e.printStackTrace();
+        }
+        */
     }
 
     @Override

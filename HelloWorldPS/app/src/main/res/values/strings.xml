@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">HelloWorldPS</string>
+    <string name="app_name">HelloWorldPS Custom View</string>
     <string name="bye">Goodbye!!!!</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
