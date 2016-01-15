@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">SidewayLayout</string>
-
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+  <string name="app_name">Sideways Layout</string>
+  <string name="good_night_moon">Goodnight Moon</string>
+  <string name="green_eggs_and_ham">Green Eggs and Ham</string>
+  <string name="matilda">Matilda</string>
+  <string name="action_settings">Settings</string>
 </resources>
